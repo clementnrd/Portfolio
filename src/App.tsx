@@ -24,10 +24,10 @@ function App() {
             <a href="https://github.com" className="hover:text-blue-400 transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com" className="hover:text-blue-400 transition-colors">
+            <a href="https://www.linkedin.com/in/cl%C3%A9ment-nairaud-a93719331/" className="hover:text-blue-400 transition-colors">
               <Linkedin size={24} />
             </a>
-            <a href="mailto:clement.nairaud@exemple.com" className="hover:text-blue-400 transition-colors">
+            <a href="mailto:clement.nairaud@free.fr" className="hover:text-blue-400 transition-colors">
               <Mail size={24} />
             </a>
           </div>
