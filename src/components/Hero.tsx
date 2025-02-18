@@ -10,8 +10,7 @@ export function Hero() {
         </h1>
         
         <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-12">
-          Étudiant en Génie Électrique à l'Université Jean Monnet, je suis passionné par les technologies 
-          et leur impact sur notre quotidien. En parallèle de mes études, je cherche à enrichir mon 
+          Étudiant en Génie Électrique à l'Université Jean Monnet. En parallèle de mes études, je cherche à enrichir mon 
           expérience professionnelle, notamment dans le domaine du GEII ou lors d'un job étudiant.
         </p>
 
