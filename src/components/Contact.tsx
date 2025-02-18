@@ -111,7 +111,7 @@ export function Contact() {
                   Télécharger CV
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/cl%C3%A9ment-nairaud-a93719331/"
                   className="px-4 py-2 bg-blue-100 text-blue-700 rounded hover:bg-blue-200 transition-colors"
                   target="_blank"
                 >
