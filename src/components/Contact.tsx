@@ -104,7 +104,7 @@ export function Contact() {
               <h4 className="font-semibold mb-2">Liens professionnels</h4>
               <div className="flex space-x-4">
                 <a
-                  href="/cv.pdf"
+                  href="https://github.com/clementnrd"
                   className="px-4 py-2 bg-gray-100 text-gray-700 rounded hover:bg-gray-200 transition-colors"
                   target="_blank"
                 >
