@@ -11,6 +11,16 @@ export function Projects() {
       title: "Programmation de microcontrôleur",
       description: "Développement d'un système d'automatisation utilisant un microcontrôleur, programmé en C pour le contrôle de processus industriels.",
       image: "https://images.unsplash.com/photo-1553406830-ef2513450d76?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      title: "Simulateur de trajectoire 3D",
+      description: "Développement d'un simulateur physique permettant de calculer et visualiser la trajectoire de projectiles en trois dimensions, prenant en compte les forces aérodynamiques et la gravité.",
+      image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      title: "Village en lumière",
+      description: "Création et gestion d'une association visant à mettre en valeur les petites communes en améliorant leur visibilité et en promouvant leur patrimoine culturel et historique.",
+      image: "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?auto=format&fit=crop&w=800&q=80"
     }
   ];
 
