@@ -88,7 +88,7 @@ export function Contact() {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="w-5 h-5 text-blue-400 mr-3" />
-                <a href="mailto:clement.nairaud@exemple.com" className="text-gray-300 hover:text-blue-400">
+                <a href="mailto:clement.nairaud@free.fr" className="text-gray-300 hover:text-blue-400">
                   clement.nairaud@exemple.com
                 </a>
               </div>
